@@ -1,5 +1,5 @@
-FROM wurstmeister/storm:0.9.4
-MAINTAINER Wurstmeister
+FROM njvijay/storm:0.9.5
+MAINTAINER Vijayakumar Jawaharlal
 
 EXPOSE 6700
 EXPOSE 6701

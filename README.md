@@ -32,7 +32,7 @@ Add more supervisors:
 Take a look at docker-compose.yml:
 
     ui:
-      image: wurstmeister/storm-ui:0.9.2
+      image: njvijay/storm-ui:0.9.2
 	      ports:
 	        - "49080:8080"
 
@@ -65,4 +65,4 @@ Find the forwarded ssh port for the container you wish to connect to (use `docke
 
     $ ssh root@`boot2docker ip` -p $CONTAINER_PORT
 
-The password is 'wurstmeister' (from: https://registry.hub.docker.com/u/wurstmeister/base/dockerfile/).
+The password is 'njvijay' (from: https://registry.hub.docker.com/u/njvijay/dockerbase/dockerfile/).
