@@ -11,9 +11,9 @@ The images are available directly from [https://index.docker.io](https://index.d
 
 ##Usage
 
-Start a cluster:
+Start a cluster: (Daemonize it)
 
-- ```docker-compose up```
+- ```docker-compose up -d```
 
 Destroy a cluster:
 
