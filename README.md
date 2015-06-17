@@ -1,7 +1,7 @@
 storm-docker
 ============
 
-Dockerfiles for building a storm cluster. Inspired by [https://github.com/ptgoetz/storm-vagrant](https://github.com/ptgoetz/storm-vagrant)
+Dockerfiles for building a storm cluster. Cloned and created as separate project from  [https://github.com/wurstmeister/storm-docker](https://github.com/wurstmeister/storm-docker). All credit goes to wurstmeister and I have created this project to keep up latest storm version and local implementation only.
 
 The images are available directly from [https://index.docker.io](https://index.docker.io)
 
